@@ -1,5 +1,5 @@
 # Static Site Generator Project
-Built a static site generator that creates HTML pages from content files. 
+I built a static site generator that creates HTML pages from content files. 
 
 Please note: "static site" means that the final site is files (i.e., HTML, CSS, images, and perhaps JS). There is no backend server generating pages on request. 
 
